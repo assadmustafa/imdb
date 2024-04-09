@@ -1,8 +1,9 @@
 # IMDb
-<pre>
+
 ![App Screenshot](public/preview_01.png)
-</pre>
+
 ![App Screenshot](public/preview_02.png)
+
 ![App Screenshot](public/preview_03.png)
 
 ## Introduction
